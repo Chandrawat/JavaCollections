@@ -1,4 +1,4 @@
-package com.saksham.Problems;
+package com.saksham.interviewProblems;
 
 public class FebonaciPractise {
 	
